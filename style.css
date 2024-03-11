@@ -1,0 +1,1018 @@
+body{
+    margin-top: 0rem;
+    margin: 0rem;
+    /* box-sizing: border-box; */
+    background-color:#FFFFFF;
+}
+/* <section> .navbox */
+.navbox{
+
+}
+.navcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    padding-left: 4rem;
+    padding-right:4rem ;
+    padding-top: 2rem;
+
+}
+.left{
+
+}
+.logobox{
+    display: flex;
+}
+.logo{
+
+}
+.logo2{
+}
+.Juggle{
+    color: rgb(14, 15, 102);
+    font-family: Poppins;
+font-size: 26px;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: -0.2rem;
+margin-left: 0.5rem;
+
+}
+.juggle2{
+
+}
+.right{
+    width: 20vw;
+    height: 10vh;
+    background-color:rgb(14, 15, 102);
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+
+
+
+}
+
+
+.signup{
+border: 3px;
+text-decoration: none;
+color: #FFFFFF;
+margin-top: 1rem;
+
+display: flex;
+justify-content: center;
+}
+
+/* <section>Financial wellness */ */
+
+.financialbox{
+     ;
+}
+.financial{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top:2rem ;
+}
+.fw{
+    font-family: Millik;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.wellness{
+    color:rgb(4, 146, 87);
+}
+.daily{
+    margin-top: -1.5rem;
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.demobox{
+    display: flex;
+
+}
+.free{
+    background-color: rgb(14, 15, 102);
+    padding: 0.5rem;
+    border-radius: 10px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 800;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;    
+display: flex;
+justify-content: center;
+
+}
+.schedule{
+    background: #EEEEEE;
+    margin-left: 0.3rem;
+    padding: 0.5rem;
+    border-radius: 10px;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+color: #0A0E27;
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+
+
+}
+.woman{
+    width: 32vw;
+}
+.right1{
+    margin-top: 3.5rem;
+}
+
+/* <section class="access-box"> */
+
+.access-box{
+    margin-top: 2rem;
+padding-left: -1rem;
+}
+
+.access{
+display: flex;
+justify-content: space-between;
+}
+.left2{
+    display: flex;
+    justify-content: left;
+}
+.right2{
+}
+.baptista{
+    width: 48vw;
+    height: 103vh;
+    /* padding-right: 3rem; */
+}
+.cassandra{
+    width: 44vw;
+    height: 69.2vh;
+}
+.unpaid{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    margin-top: -0.7rem;
+    /* text-align: left; */
+    
+}
+
+/* .    <section class="revoloutionbox"> */
+
+.revoloutionbox{
+padding-top: 2rem;
+padding-left: 4rem;
+padding-right: 4rem;
+}
+.revoloution{
+
+display: flex; 
+    justify-content: space-between;
+}
+.bigbox{
+    display: flex;
+    justify-content: space-between;
+}
+.revoloution1{
+    font-family: Millik;
+    font-size: 50px;
+    font-weight: 900 !important; 
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.liquidity{
+    color: rgb(171, 181, 25);
+
+}
+.left3{
+    border: 1px solid black;
+    border: 1px solid #E9E9E9   ;
+     border-radius: 0px 0px 15px 0px;
+    width: 24vw;
+    height: 19vw;
+    margin-top: 11rem;
+    
+}
+.lilac{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background: #E2E1FF;
+    width: 6vw;
+    height: 12vh;
+    margin-top: -2.5rem;
+    margin-left: 3rem;
+    padding: 0.5rem;
+    border-radius: 0px 0px 15px 0px;
+}
+.lilac1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background: #41EEDA;
+    width: 6vw;
+    height: 12vh;
+    margin-top: -2.5rem;
+    margin-left: 3rem;
+    padding: 0.5rem;
+    border-radius: 0px 0px 15px 0px;
+}
+.lilac2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background: #A3A3A3;
+    width: 6vw;
+    height: 12vh;
+    margin-top: -2.5rem;
+    margin-left: 3rem;
+    padding: 0.5rem;
+    border-radius: 0px 0px 15px 0px;
+}
+.frame{
+    /* width: 10vw;
+    height: 10vh; */
+}
+.iphone{
+    width: 25vw;
+}
+.employer{
+font-family: Poppins;
+font-size: 12px;
+font-weight: 600;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+.brand{
+    font-family: Poppins;
+font-size: 10px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: -0.02em;
+text-align: left;
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+.right3{
+    border: 1px solid black;
+    border: 1px solid #E9E9E9   ;
+     border-radius: 0px 0px 15px 0px;
+    width: 24vw;
+    height: 19vw;
+    margin-top: 2rem;
+}
+.right4{
+    border: 1px solid black;
+    border: 1px solid #E9E9E9   ;
+     border-radius: 0px 0px 15px 0px;
+    width: 24vw;
+    height: 19vw;
+    margin-top: 5rem;
+}
+
+/* <section class="jugglebox"> */
+
+.juggle{
+    font-family: Millik;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 3rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    color: #00160E;
+
+}
+.offering{
+    /* padding-top: 3rem; */
+    padding-left: 4rem;
+    padding-right: 4rem;
+    font-family: Poppins;
+font-size: 10px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #00160E;
+
+}
+.choosing{
+color: rgb(255, 153, 0);
+
+}
+.bigbox2{
+ margin-bottom: rem;
+ background: #F5F6FA;
+ display: flex;
+ justify-content: space-between;
+
+
+}
+.left5{
+
+}
+.middle2{
+    margin-left: 2rem;
+    background: #FFFFFF;
+    width: 17vw;
+    height: 44vh;;
+    background-color: #41EEDA;
+    border-radius: 10px;
+    margin-top: -2rem;
+
+
+}
+.middle3{
+    margin-top: 7rem;
+    /* margin-left: 2rem; */
+    background: #FFFFFF;
+    width: 17vw;
+    height: 44vh;;
+    background-color: #41EEDA;
+    border-radius: 10px;
+
+}
+.right5{
+    margin-left: 2rem;
+    background: #FFFFFF;
+    width: 17vw;
+    height: 44vh;;
+    background-color: #41EEDA;
+    border-radius: 10px;
+    margin-top: -4rem;
+
+}
+.right6{
+    background: #FFFFFF;
+    width: 17vw;
+    height: 44vh;;
+    background-color: #41EEDA;
+    border-radius: 10px;
+    margin-top: 7rem;
+
+
+}
+.isiah{
+    background-image: url(img/isaiah-mcclean-DrVJk1EaPSc-unsplash\ 1.png);
+    width: 45.5vw;
+    height: 105vh;
+    background-repeat: no-repeat, ;
+    background-size:contain;
+    overflow: hidden;
+    /* position: relative */
+}
+.g70{
+   
+    width: 25vw;
+margin-top: -8rem;
+margin-left: 1rem;
+}
+.searchbox{
+    background: #F1F7FF;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top:-2rem ;
+    width: 4vw;
+    /* margin-left: 5rem; */
+
+}
+.searchbox1{
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top:-2rem ;
+    width: 4vw;
+    background: #FFF7E3;
+
+    /* margin-left: 5rem; */
+
+}
+
+.searchbox2{
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top:-2rem ;
+    width: 4vw;
+    background: #FFF2F8;
+
+    /* margin-left: 5rem; */
+
+}
+.searchbox3{
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top:-2rem ;
+    width: 4vw;
+    background: #DEFFEE;
+
+    /* margin-left: 5rem; */
+
+}
+
+
+
+.sb{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.zero-risk{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+}
+.salary{
+    font-family: Poppins;
+font-size: 9px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+/* <section class="paydaybox"> */
+.payday{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.left7{
+
+}
+.right7{
+    background-image: url(img/elizeu-dias-2EGNqazbAMk-unsplash\ 1.png);
+    background-repeat: no-repeat,repeat ;
+    background-size:contain;
+}
+.bb{
+    margin-top: 15rem;
+    background-color:black;
+    color: #FFFFFF;
+    font-family: Millik;
+font-size: 30px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: left;
+width: 45.6vw;
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+.ay{
+    color:rgb(231, 240, 97);
+}
+.monthly{
+color: #0A0E27;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+padding-left:3rem ;
+padding-right:1rem ;
+
+
+}
+.elizeu{
+    width: 52.7vw;
+
+}
+.yellow{
+margin-top: -8rem;
+width: 3vw;
+margin-right: -1rem;
+}
+.purple{
+    margin-bottom: -9rem;
+width: 3vw;
+margin-left: -3rem;
+
+}
+.amount{
+    background-color:white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: -7rem;
+    width: 22vw;
+    height: 8vh;
+    margin-left: 1rem;
+    padding: 0.9rem;
+}
+.enter{
+    font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -0.1rem;
+opacity: 80%;
+}
+
+.naira{
+    font-family: Inter;
+font-size: 13px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+display: flex;
+justify-content: space-between;
+margin-top: -1rem;
+
+}
+.Withdraw{
+    background: #E7F061;
+    width: 8vw;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.freedom2{
+}
+.bigdiv3{
+    padding-top:3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+.left8{
+
+}
+.seize{
+    font-family: Millik;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.ff{
+color: rgb(236,125,167);
+}
+.longer{
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.ratebox{
+    display: flex;
+    margin-top: 2rem;
+
+}
+.rate1{
+
+}
+.rate2{
+    margin-left: 2rem;
+
+}
+.vectorbox{
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    margin-left:1rem;
+}
+.vectorbox11{
+    margin-top: 1rem;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    margin-left:1rem;
+}
+.vectorbox12{
+    margin-top: 1rem;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    margin-left:1rem;
+}
+.vectorbox13{
+    margin-top: 1rem;
+
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    margin-left:1rem;
+}
+.vectorbox2{
+    background-color:white;
+    width: 6vw;
+    height: 5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    box-shadow: 0px 4px 9px 0px #0000000D;
+
+}
+.textbox{
+width: 38vw;
+height: 7vw;
+margin-left:1rem ;
+}
+.salary2{
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -0.3rem;
+
+
+}
+.hours{
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+margin-top: -0.5rem;    
+}
+.right8{
+    padding-top: 3rem;
+}
+
+
+
+/* <section emojibox> */
+
+
+.emojibox{
+padding-top: 3rem;
+padding-bottom: 2rem;
+background: #F7FAFD;
+
+
+
+}
+.bigbox4{
+    display: flex;
+    justify-content: space-between;
+    padding: 7rem;
+    /* padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 4rem; */
+}
+.bigbox5{
+    background: #F7FAFD;
+
+
+}
+.iphonex{
+padding-top: 3rem;
+width: 28vw;
+height: 100vh;
+}
+.textbody3{
+    margin-left: 0.55em;
+
+}
+.goldenyellow{
+    color: rgb(171, 181, 25);
+
+}
+.ball{
+    font-family: Millik;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.textbody{
+
+}
+.postive1{
+    font-family: Poppins;
+font-size: 10px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -2rem;
+
+}
+.emoji1{
+    background: #0C1B4D1A;
+    width: 6vw;
+    height: 6vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+border-radius: 5px;
+}
+ .emojibox2{
+    display: flex;
+    justify-content: space-between;
+ }
+ .emojibox3{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+ }
+ .emojibox4{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+
+ }
+ .hours1{
+font-family: Source Sans Pro;
+font-size: 11px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -0.5rem;
+ }
+ .salary3{
+    font-family: Poppins;
+font-size: 15px;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -0.3rem;
+
+ }
+ .download{
+    margin: auto;
+    align-items: center;
+    height: 7vh;
+background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center; 
+width: 20vw;
+
+/* margin-top: -6rem; */
+ }
+ 
+ .button{
+    color: white;
+    text-decoration: none;
+ }
+
+ /* <section stressbox> */
+
+
+ .stressbox{
+    padding-top: 3rem;
+
+ }
+ .bigbox6{
+    background-color: white;
+    padding-bottom: 4rem;
+
+ }
+ .stress{
+    background: #F5F6FA;
+margin: auto;   
+    width: 70vw;
+    height: 100vh;
+    border-radius: 20px;
+ }
+ .stress2{
+ }
+ .imagebox{
+    display: flex;
+ justify-content: center;
+ align-items: center
+ }
+.image{
+    width: 40vw;
+    height: 27vw;
+}
+
+.percentbox{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.percent{
+
+}
+.sr{
+     color: rgb(102, 104, 199);
+}
+.smalldiv{
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+}
+
+.r1{
+    margin-left: 3rem;
+}
+.tell{
+    margin-top: 2rem;
+    margin: auto;
+    align-items: center;
+    height: 7vh;
+    background: #E7F061;
+    display: flex;
+justify-content: center;
+align-items: center;
+align-content: center; 
+width: 20vw;
+border-radius: 10px;
+}
+.button2{
+    color: #0A0E27;
+    text-decoration: none;
+}
+
+
+
+/* .section.frequentbox */
+.frequentbox{
+    background: #F5F6FA;
+    padding-top: 2rem;
+    padding-left:5rem ;
+    padding-right:5rem ;
+    padding-bottom: 5rem;
+border-radius: 5px;
+}
+.frequent{
+    /* background: #F5F6FA; */
+
+}
+.frequent1{
+background-color:#FFFFFF;
+box-shadow: 0px 5px 16px 0px #080F340F;
+margin: auto;
+width:42vw ;
+height:80vh ;
+padding: 3rem;
+border-radius: 15px;
+
+
+}
+.questions{
+    font-family: Millik;
+font-size: 40px;
+font-weight: 400;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: center;
+
+
+}
+
+.wage{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    /* background-color: #E7F061; */
+    width: 41.3vw;
+    height: 7vw;
+    font-family: Poppins;
+font-size: 13px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+border-top:   1px solid rgba(217, 219, 233, 1)
+
+}
+
+.early{
+    text-align: left;
+
+display: flex;
+justify-content: left;
+align-content: left;
+align-items: start;
+}
+
+.loanbox{
+
+    margin: auto;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width: 41.3vw;
+    height: 13vw;
+border-top:   1px solid rgba(217, 219, 233, 1)
+
+}
+.loan{
+    color: rgba(3, 174, 109, 1);
+    font-family: Poppins;
+font-size: 13px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.loan1{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    
+}
+.yuli{
+    margin-top: 0.2rem;
+    font-family: Poppins;
+font-size: 9px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+opacity: 80%
+}
+
+/* <section black> */
+.blankbox{
+background-color:white ;
+padding-top: 3rem;
+padding-left: 3rem;
+padding-right: 3rem;
+padding-bottom: 29rem;
+display: flex;
+justify-content: center;
+align-items: center;
+align-content:center ;
+}
+.black1{
+    width: 75vw;
+    height: 65vw;
+    background: rgba(29, 29, 29, 1);
+border-radius: 10px;
+
+}
+.remove{
+    margin-top: 1rem;
+}
